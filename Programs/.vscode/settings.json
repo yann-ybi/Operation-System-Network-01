@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdlib.h": "c",
+        "__split_buffer": "c",
+        "string": "c",
+        "vector": "c",
+        "complex": "c"
+    }
+}
